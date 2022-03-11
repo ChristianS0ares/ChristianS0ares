@@ -1,10 +1,10 @@
-## Olá! Eu sou o Christian Soares
+## Olá! Eu sou o Christian Soares!
 
 - 🔭 Hoje eu trabalho como Estagiario de Engenharia
 - 🌱 Estudando Javascript
 - 😄 Pronouns: ele/dele
 
-####
+##
 
 <div align="center">
   <a href="https://github.com/ChristianS0ares">
