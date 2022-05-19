@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Christian Soares!
 
-- 🔭 Hoje eu trabalho como Estagiario de Engenharia
-- 🌱 Estudando Javascript
+- 🔭 Hoje eu trabalho com Analise de Dados
+- 🌱 Estudando Python e SQL
 - 😄 Pronouns: ele/dele
 
 ##
